@@ -1298,7 +1298,9 @@ video {
 			font-size: 1.2em;
 			margin-bottom: 2em;
 			color:#000000;
-			font-weight:400;
+			font-family: "source-han-sans-traditional","微軟正黑體";
+			font-style: normal;
+			font-weight:300;
 			letter-spacing:0.1em;
 
 			/*text-shadow: 1px 1px 1px #bbb;*/
