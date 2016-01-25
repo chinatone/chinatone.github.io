@@ -1283,18 +1283,19 @@ video {
 			margin: 0 0 0.5em 0;
 			padding: 0;
 			text-shadow: 2px 2px 7px #BABABA;
-			font-family: "source-han-sans-traditional",simhei, "微軟正黑體",sans-serif;
+			font-family: "source-han-sans-traditional","微軟正黑體";
 			font-style: normal;
-			font-weight: 700;
+			font-weight: 500;
+
 
 		}
 
 		#banner p {
-			font-family: 'Noto Sans', sans-serif;
 			font-size: 1.2em;
 			margin-bottom: 2em;
 			color:#000000;
 			font-weight:400;
+			letter-spacing:0.1em;
 
 			/*text-shadow: 1px 1px 1px #bbb;*/
 		}
